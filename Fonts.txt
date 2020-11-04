@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Merriweather
+Author: Sorkin Type Co
+Url: http://www.fontsquirrel.com/fonts/merriweather
+
+Font: Montserrat
+Author: Julieta Ulanovsky
+Url: http://www.fontsquirrel.com/fonts/montserrat
